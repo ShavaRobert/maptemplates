@@ -9,7 +9,7 @@
 "legenddecimals": 0,
 "breaks": "equal",
 "dropticks": false,
-"numberBreaks": 5,
+"numberBreaks": 9,
 "sourcetext": "Office for National Statistics",
 "sourceURL" : "https://www.ons.gov.uk",
 "chartLabels": ["1", "2", "3", "4"],
