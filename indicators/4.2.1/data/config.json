@@ -1,5 +1,5 @@
 {"ons":{
-"maptitle": "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex",
+"maptitle": "Proportion of children under 5 years of age who are developmentally on track",
 "varcolour": "YlGnBu",
 "varlabels": ["First var","Second var","Next One","Last One"],
 "timeload": "last",
@@ -9,7 +9,7 @@
 "legenddecimals": 1,
 "breaks": "equal",
 "dropticks": false,
-"numberBreaks": 10,
+"numberBreaks": 5,
 "sourcetext": "SDGs: Indicator 4.2.1",
 "sourceURL" : "https://sustainabledevelopment-uk.github.io/4-2-1/",
 "chartLabels": ["1", "2", "3", "4"],
