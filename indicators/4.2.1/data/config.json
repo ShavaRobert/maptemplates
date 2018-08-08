@@ -7,7 +7,7 @@
 "varunit": ["Percentage (%)","gello","gggt","tt"],
 "displaydecimals": 1,
 "legenddecimals": 1,
-"breaks": "natural",
+"breaks": "equal",
 "dropticks": false,
 "numberBreaks": 10,
 "sourcetext": "SDGs: Indicator 4.2.1",
