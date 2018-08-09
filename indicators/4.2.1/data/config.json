@@ -3,7 +3,7 @@
 "varcolour": "YlGnBu",
 "varlabels": ["First var","Second var","Next One","Last One"],
 "timeload": "last",
-"timepoints": ["2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2014"],
+"timepoints": ["2013","2014","2015","2016","2017"],
 "varunit": ["Percentage (%)","gello","gggt","tt"],
 "displaydecimals": 1,
 "legenddecimals": 1,
@@ -13,8 +13,8 @@
 "sourcetext": "SDGs: Indicator 4.2.1",
 "sourceURL" : "https://sustainabledevelopment-uk.github.io/4-2-1/",
 "chartLabels": ["1", "2", "3", "4"],
-"timelineLabelsMB":["", "04", "", "06", "", "08", "", "10", "", "12", ""],
-"timelineLabelsDT":["","2004","","2006","","2008","","2010","","2012",""],
+"timelineLabelsMB":["", "14", "", "16", ""],
+"timelineLabelsDT":["","2014","","2016",""],
 "average": [["2", "3","1","1","1","3","2","2","2","1","3"],["2", "3","1","1","1","3","2","2","2","1","3"],["2", "3","1","1","1","3","2","2","2","1","3"]]
 
 }}
