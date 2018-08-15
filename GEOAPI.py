@@ -28,7 +28,7 @@ from pprint import pprint
 
 
 # send request and record response as 'response'
-response = RQ.get("https://opendata.arcgis.com/datasets/ae90afc385c04d869bc8cf8890bd1bcd_1.geojson")
+response = RQ.get("https://opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson")
 
 # print status code to determine whether the request was successful
 print(response.status_code)
@@ -36,11 +36,11 @@ print(response.status_code)
 # if response.ok is true, print content then save a json file of the output
 if response.ok == True:
     print(response.content)
-    lad_geo = response.json()
-    with open('lad_geo.json','w') as outfile:
-        json.dump(lad_geo,outfile)
+    region_geo = response.json()
+    with open('region_geo.json','w') as outfile:
+        json.dump(region_geo,outfile)
 
 
 # reading json files
-with open('lad_geo.json') as jsonfile:
-        lad_data = json.load(jsonfile)
+with open('region_geo.json') as jsonfile:
+        region_data = json.load(jsonfile)
